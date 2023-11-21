@@ -35,3 +35,5 @@ countdown();
 
 setInterval(countdown, 1000);
 // calling the function repeatedly so that it can be updated every single second 
+
+// todo: if the counter gets to 0, make a celebration animation
